@@ -1,0 +1,25 @@
+@relation sample
+
+@attribute A {0, 1, 2}
+@attribute B {0, 1, 2}
+@attribute C {0, 1, 2}
+@attribute D {0, 1, 2}
+@attribute E {0, 1, 2}
+@attribute F {0, 1, 2}
+@attribute G {0, 1, 2}
+@attribute H {0, 1, 2}
+@attribute I {0, 1, 2}
+@attribute class {2, 4}
+
+@data
+ 2 2 2 2 2 2 2 2 0 4
+ 0 0 0 0 0 2 1 0 0 2
+ 0 0 1 0 0 0 1 0 0 2
+ 1 0 0 0 0 0 1 0 0 2
+ 1 2 2 2 2 2 1 1 0 2
+ 0 0 0 0 0 1 1 0 0 2
+ 2 2 2 0 1 2 1 2 0 2
+ 1 0 0 1 0 0 1 0 0 2
+ 0 0 0 0 0 0 0 0 2 2
+ 1 1 0 0 0 0 0 0 0 2
+ 0 0 0 0 0 0 1 0 0 2
